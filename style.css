@@ -9,7 +9,7 @@
 font-weight: 700;
 }
 
-.headline {
+#headline {
     background-image: url("images/header-shapes\ mobile.png");
     background-repeat: no-repeat;
     background-size: covers;
